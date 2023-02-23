@@ -1,0 +1,29 @@
+.course-card {
+}
+.course-title-duration {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.duration-icon {
+  display: flex;
+  align-items: center;
+}
+.tagList {
+  display: flex;
+  padding: 5px;
+  flex-wrap: wrap;
+}
+.tag-item {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  list-style: none;
+  background-color: #b1bbc9;
+  border-radius: 3px;
+  margin: 5px;
+  height: 30px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
